@@ -1,0 +1,42 @@
+{
+  "item": {
+    "id": "com.duck.watch.gsg",
+    "restype": "quick_app",
+    "name": "摸金",
+    "description": "这是一个在手环上的摸金小游戏",
+    "preview": [
+      "media/1000183717.webp",
+      "media/1000183718.webp",
+      "media/1000183719.webp",
+      "media/1000183720.webp",
+      "media/1000183721.webp"
+    ],
+    "icon": "media/1000183723.jpg",
+    "cover": "media/1000183805.png",
+    "author": [
+      {
+        "name": "DuckBoos",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10": {
+      "version": "1.4.1正式版",
+      "file_name": "downloads/摸金1.4.1.rpk",
+      "versionCode": 11
+    },
+    "xmb10nfc": {
+      "version": "1.4.1正式版",
+      "file_name": "downloads/摸金1.4.1.rpk",
+      "versionCode": 11
+    },
+    "xmb11": {
+      "version": "1.4.1正式版",
+      "file_name": "downloads/摸金1.4.1.rpk",
+      "versionCode": 11
+    }
+  },
+  "ext": {}
+}
